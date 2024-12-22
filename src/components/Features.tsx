@@ -1,11 +1,11 @@
 import { GradientCard } from "./ui/GradientCard";
-import { Database, PackageOpen, BookOpen, Handshake, ChartBar, Computer } from "lucide-react";
+import { BadgeDollarSign, Database, PackageOpen, BookOpen, Handshake, ChartBar, Computer } from "lucide-react";
 
 const features = [
   {
     title: "Smart Funding Gateway",
     description: "AI-matched funding opportunities with up to $100K in grants and intuitive reporting tools.",
-    icon: DollarSign,
+    icon: BadgeDollarSign,
   },
   {
     title: "Blockchain Transparency",
